@@ -12,7 +12,7 @@
 
 ## Dataset :
 Untuk dataset, penulisan dari file name masing masing dataset berdasarkan pada per subjek pada data training dan data testing
-![image](https://user-images.githubusercontent.com/3927444/120930014-a74cc900-c715-11eb-82b1-7306415f5a02.png)
+![image](https://user-images.githubusercontent.com/3927444/121117347-322ae200-c842-11eb-930f-31df1b3a3292.png)
 
 ## Output Program 
 Ketika Anda mengeksekusi GUI dan menjalankan fungsi pada form tersebut, maka step by step dari program tersebut akan dikeluarkan pada **Command Windows** di Matlab, serta variabel yang menampilkan lebih dari 50 baris dapat dilihat pada workspace.
